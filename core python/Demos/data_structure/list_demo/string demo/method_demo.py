@@ -1,0 +1,21 @@
+str='FirstBit solutions'
+
+# print(str.capitalize())
+# print(str.count('Bit'))
+# print(str.endswith('ions'))
+# print(str.find('bit'))
+# print(str.index('rs'))
+# print(str.isalpha( ))
+# print(str.isdigit( ))
+# print(str.islower( ))
+# print(str.isspace( ))
+# print(str.isupper( ))
+# print('@'.join(['a','b','c'] ))
+# print(str.replace('Bit','Byte' ))
+# print(str.split(' '))
+# print(str.startswith('Fir'))
+# print(str.strip(' '))
+# print(str.swapcase( ))
+# print(str.title( ))
+print(str.upper( ))
+
